@@ -1,1 +1,1 @@
-09.11.24 co22
+15.11.24 set_division теперь берется из файла калибровки /home/pi/domoticz/scripts/lua/script_device_pumps_calibration.lua
